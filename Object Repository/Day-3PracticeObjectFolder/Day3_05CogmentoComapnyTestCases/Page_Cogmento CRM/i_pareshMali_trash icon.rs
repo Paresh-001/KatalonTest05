@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_pareshMali_trash icon</name>
+   <tag></tag>
+   <elementGuidId>b18b8e95-2147-4601-a98b-2a9a174a6f01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div/div[2]/div/table/tbody/tr/td[4]/button[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ui.button.icon > i.trash.icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>727a5f9f-c783-400a-9086-01f965ece5ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ec20e095-eb56-468f-b76b-aaad3e51bbe5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>trash icon</value>
+      <webElementGuid>b13333ca-7c8f-4f3e-bd14-cb6702efd105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;ui fluid container&quot;]/div[@class=&quot;ui fluid container main-content&quot;]/div[@class=&quot;table-wrapper&quot;]/table[@class=&quot;ui celled definition sortable striped table custom-grid&quot;]/tbody[1]/tr[@class=&quot;active&quot;]/td[@class=&quot;right aligned collapsing options-buttons-container&quot;]/button[@class=&quot;ui button icon&quot;]/i[@class=&quot;trash icon&quot;]</value>
+      <webElementGuid>e5a0f095-3d9d-40f1-905f-56b71073c0d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div/div[2]/div/table/tbody/tr/td[4]/button[2]/i</value>
+      <webElementGuid>40509624-2101-422f-924b-33a68a0339aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/button[2]/i</value>
+      <webElementGuid>5b23e10c-b49f-4a72-82a9-97efaa63e90e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

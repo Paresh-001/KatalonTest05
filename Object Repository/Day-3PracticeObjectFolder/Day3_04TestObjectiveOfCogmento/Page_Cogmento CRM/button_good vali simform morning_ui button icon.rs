@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_good vali simform morning_ui button icon</name>
+   <tag></tag>
+   <elementGuidId>0bba9480-cbc7-42f5-8033-f1839239c112</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div/div[2]/div/table/tbody/tr/td[8]/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a3f844c9-2a65-4a77-9eaa-175c63d1cacf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui button icon</value>
+      <webElementGuid>6ba7b2c9-31c5-4a0e-965e-015f39aa8ad9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;ui fluid container&quot;]/div[@class=&quot;ui fluid container main-content&quot;]/div[@class=&quot;table-wrapper&quot;]/table[@class=&quot;ui celled definition sortable striped table custom-grid&quot;]/tbody[1]/tr[@class=&quot;active&quot;]/td[@class=&quot;right aligned collapsing options-buttons-container&quot;]/button[@class=&quot;ui button icon&quot;]</value>
+      <webElementGuid>9a4d3f9d-9520-4290-938a-d5c33ead0844</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div/div[2]/div/table/tbody/tr/td[8]/button[2]</value>
+      <webElementGuid>5376b862-9984-4a8f-abec-d974114351b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='good vali simform morning'])[1]/following::button[4]</value>
+      <webElementGuid>e1eb1bcc-6887-486f-a62d-d5800f60536d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Options'])[1]/following::button[4]</value>
+      <webElementGuid>526f8f65-2859-4f99-8434-7627097722c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='paresh hellodhanjibhai mali'])[1]/preceding::button[1]</value>
+      <webElementGuid>42a8b22d-b7bb-4441-8c3d-dcdf93e5eb06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='paresh hellodhanjibhai mali'])[2]/preceding::button[5]</value>
+      <webElementGuid>8bc5e519-04f1-4ffc-b84b-a77d4bf9bdc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]/button[2]</value>
+      <webElementGuid>9d02eceb-7b24-48a2-a524-15d3bcc6afd0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

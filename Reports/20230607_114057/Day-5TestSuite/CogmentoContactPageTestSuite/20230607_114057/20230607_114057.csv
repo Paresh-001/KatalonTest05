@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+CogmentoContactPageTestSuite,Chrome 110.0.0.0,,,2023-06-07 11:40:58,2023-06-07 11:42:10,1m - 11.458s,FAILED
+,,,,,,,
+Test Cases/Day-5GitAssignmentTestCases(Cogmento)/Day-5_01TestCases(cogmentoContactPage),Chrome 110.0.0.0,,,2023-06-07 11:41:56,2023-06-07 11:42:10,13.671s,FAILED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-06-07 11:41:56,2023-06-07 11:41:56,0.549s,PASSED
+"navigateToUrl(""https://ui.cogmento.com/"")",Chrome 110.0.0.0,,,2023-06-07 11:41:56,2023-06-07 11:42:00,3.033s,PASSED
+"setText(findTestObject(""Object Repository/Day-5TestObject(CogmentoContactpage)/Page_Cogmento CRM/input_Login_email""), ""19032011015.it.paresh.mali@gmail.com"")",Chrome 110.0.0.0,,,2023-06-07 11:42:00,2023-06-07 11:42:00,0.963s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Day-5TestObject(CogmentoContactpage)/Page_Cogmento CRM/input_Login_password""), ""6LVF0EDOI3bjesnKVNQvwA=="")",Chrome 110.0.0.0,,,2023-06-07 11:42:00,2023-06-07 11:42:01,0.501s,PASSED
+"click(findTestObject(""Object Repository/Day-5TestObject(CogmentoContactpage)/Page_Cogmento CRM/div_Login""))",Chrome 110.0.0.0,,,2023-06-07 11:42:01,2023-06-07 11:42:01,0.386s,PASSED
+"click(findTestObject(""Object Repository/Day-5TestObject(CogmentoContactpage)/Page_Cogmento CRM/span_Contacts""))",Chrome 110.0.0.0,,,2023-06-07 11:42:01,2023-06-07 11:42:10,8.233s,FAILED

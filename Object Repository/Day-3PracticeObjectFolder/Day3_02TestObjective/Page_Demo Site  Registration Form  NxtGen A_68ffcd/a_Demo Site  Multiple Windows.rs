@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Demo Site  Multiple Windows</name>
+   <tag></tag>
+   <elementGuidId>216711ce-1485-4d5f-a3ba-e591cb2490ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-4133']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-4133 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5825396f-1179-4ee8-a444-2a771b1b8577</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://nxtgenaiacademy.com/multiplewindows/</value>
+      <webElementGuid>30d2d6ab-3104-4696-8f4f-c990076204df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Demo Site – Multiple Windows</value>
+      <webElementGuid>425e43b9-8488-4a0b-9b0a-3e126b38c9ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-4133&quot;)/a[1]</value>
+      <webElementGuid>eaa23d1e-4ad1-4186-8aa2-62f2e20b13c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-4133']/a</value>
+      <webElementGuid>283440e3-7923-449f-a686-47e9e9c04926</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Demo Site – Multiple Windows')]</value>
+      <webElementGuid>be66df98-5a6c-4a7c-8e8c-d56cb1da83d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demo Site – Alert and Popup'])[1]/following::a[1]</value>
+      <webElementGuid>4bac623b-f8af-40b1-95c3-cea9cb0aa8d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demo Site – Registration Form'])[1]/following::a[2]</value>
+      <webElementGuid>78e83ce5-d78d-4f4f-9b3c-55b2c4cc49a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demo Site – WebTable'])[1]/preceding::a[1]</value>
+      <webElementGuid>b3428039-d173-4822-bb4a-0c8bfe983cfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demo Site – Mouse Event'])[1]/preceding::a[2]</value>
+      <webElementGuid>f0bc5a78-946f-42bf-8d0d-f7b190352f0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Demo Site – Multiple Windows']/parent::*</value>
+      <webElementGuid>cd6706f1-5529-48ee-9ca0-1eb7147229d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://nxtgenaiacademy.com/multiplewindows/')]</value>
+      <webElementGuid>c770ee91-d991-4763-9620-50936123a1aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li/ul/li[3]/a</value>
+      <webElementGuid>72c3a00d-e3fe-4fec-9f13-052b12637562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nxtgenaiacademy.com/multiplewindows/' and (text() = 'Demo Site – Multiple Windows' or . = 'Demo Site – Multiple Windows')]</value>
+      <webElementGuid>2e5d9382-1b6f-4d84-a53f-c3b9973f0181</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

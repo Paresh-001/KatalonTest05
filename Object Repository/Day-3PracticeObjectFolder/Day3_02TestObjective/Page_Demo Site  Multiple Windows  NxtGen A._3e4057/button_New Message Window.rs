@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_New Message Window</name>
+   <tag></tag>
+   <elementGuidId>46da0f74-dff3-4087-95ae-1c77b59587a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='button1'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.elementor-element.elementor-element-d94c712.elementor-widget.elementor-widget-html > div.elementor-widget-container > center > #button1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8d68c204-e568-43a6-8cf2-0bc6ac949f39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>123newmessagewindow321</value>
+      <webElementGuid>d90a049a-6e13-4db0-9524-2092e63724ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>button1</value>
+      <webElementGuid>2f67afd0-d48e-4b38-84d2-f1b2866021e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>newMsgWin()</value>
+      <webElementGuid>a60a0296-5c31-4132-81b2-55ea2282a136</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New Message Window</value>
+      <webElementGuid>c921d4ff-7029-4d46-9f62-948b14becb0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;post_type_exist clearfix&quot;]/div[@class=&quot;elementor elementor-3782&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-859c260 elementor-section-boxed elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-01aedcf&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-d94c712 elementor-widget elementor-widget-html&quot;]/div[@class=&quot;elementor-widget-container&quot;]/center[1]/button[@id=&quot;button1&quot;]</value>
+      <webElementGuid>feb15db7-f1b1-4957-a038-52fc490729bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@id='button1'])[2]</value>
+      <webElementGuid>c59665bd-06a2-45d7-82ed-005426d888a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div[2]/div/div/section[3]/div/div[2]/div/div/div/center/button</value>
+      <webElementGuid>f7a838b1-640d-4619-8331-b04c7cd81edc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Browser Window'])[1]/following::button[1]</value>
+      <webElementGuid>db11f77f-1e9a-4409-8467-c3f6f7c04b03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multiple Windows'])[1]/following::button[2]</value>
+      <webElementGuid>780d3a8a-896e-4c20-bf66-7c4f2a779d69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Browser Tab'])[1]/preceding::button[1]</value>
+      <webElementGuid>83b5ac9c-3b94-4db2-b3bd-5e962f074f57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Browser Tab Link'])[1]/preceding::button[2]</value>
+      <webElementGuid>333a0e48-ac56-469a-98d7-866a35375ee2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New Message Window']/parent::*</value>
+      <webElementGuid>dde5db0e-0ca6-477a-9540-f2c8b8b9ee3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/center/button</value>
+      <webElementGuid>d9e3a204-5ea0-42d5-9e4c-5f45a2a842cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@name = '123newmessagewindow321' and @id = 'button1' and (text() = 'New Message Window' or . = 'New Message Window')]</value>
+      <webElementGuid>d4a7d90b-2629-40b4-94c3-fef1a340ca10</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

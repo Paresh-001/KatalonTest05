@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Something went wrong.Invalid loginLogin_44c207</name>
+   <tag></tag>
+   <elementGuidId>f5d53693-672e-45cc-8c31-eec672fb8ceb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui.middle.aligned.center.aligned.grid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dcc66d0c-86e9-49e9-9206-dc1ed890a26e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui middle aligned center aligned grid</value>
+      <webElementGuid>2ca764c5-27b7-4129-a218-2812dece5f9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Something went wrong...Invalid loginLoginForgot your password?No Account? Registration takes only a few seconds? Sign Up</value>
+      <webElementGuid>711679f1-a647-4089-b14a-67c07e2c8aaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui&quot;)/div[@class=&quot;ui middle aligned center aligned grid&quot;]</value>
+      <webElementGuid>813de7a1-df01-46ab-9e7a-ad7e72c647e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui']/div</value>
+      <webElementGuid>d1deaae9-a21f-4e8c-b2e2-f8c3ff327655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div</value>
+      <webElementGuid>98ffa4f5-7a72-47ed-9658-abe02c5d6c46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Something went wrong...Invalid loginLoginForgot your password?No Account? Registration takes only a few seconds? Sign Up' or . = 'Something went wrong...Invalid loginLoginForgot your password?No Account? Registration takes only a few seconds? Sign Up')]</value>
+      <webElementGuid>ce61075c-f653-4c01-8f24-8f8a4e5632aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

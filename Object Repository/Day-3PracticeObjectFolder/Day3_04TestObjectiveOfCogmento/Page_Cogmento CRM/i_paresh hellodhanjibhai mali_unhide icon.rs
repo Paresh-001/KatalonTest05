@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_paresh hellodhanjibhai mali_unhide icon</name>
+   <tag></tag>
+   <elementGuidId>6d064520-4438-4bda-91fa-e0ca193de439</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div/div[2]/div/table/tbody/tr/td[8]/a/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.unhide.icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>375f38e8-e360-4727-92dd-c11fae1076fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b76278d6-b301-4227-8ab7-9c5d0de11a91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>unhide icon</value>
+      <webElementGuid>b2a0ddd7-d885-467c-9766-471953fccbd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;ui fluid container&quot;]/div[@class=&quot;ui fluid container main-content&quot;]/div[@class=&quot;table-wrapper&quot;]/table[@class=&quot;ui celled definition sortable striped table custom-grid&quot;]/tbody[1]/tr[@class=&quot;active&quot;]/td[@class=&quot;right aligned collapsing options-buttons-container&quot;]/a[1]/button[@class=&quot;ui icon inverted button&quot;]/i[@class=&quot;unhide icon&quot;]</value>
+      <webElementGuid>401d9635-92db-436f-bce9-facf28324f48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div/div[2]/div/table/tbody/tr/td[8]/a/button/i</value>
+      <webElementGuid>e8cdd98d-8eb8-4ad6-afc0-864c1b41e4e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]/a/button/i</value>
+      <webElementGuid>92bfe74e-e262-4b51-99ca-4455e953c04b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

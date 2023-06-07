@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_paresh_edit icon</name>
+   <tag></tag>
+   <elementGuidId>ed95bd05-e23e-4338-89f3-1f927c2dee8e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div/div[2]/div/table/tbody/tr/td[4]/a[2]/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ui.icon.inverted.button > i.edit.icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>39fca803-a397-40a4-8569-d9801a5385e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5495bffb-72c7-4bda-9eae-666711ffe5dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>edit icon</value>
+      <webElementGuid>11bef0d3-2b04-443c-8a15-96a5d8027f52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;ui fluid container&quot;]/div[@class=&quot;ui fluid container main-content&quot;]/div[@class=&quot;table-wrapper&quot;]/table[@class=&quot;ui celled definition sortable striped table custom-grid&quot;]/tbody[1]/tr[@class=&quot;active&quot;]/td[@class=&quot;right aligned collapsing options-buttons-container&quot;]/a[2]/button[@class=&quot;ui icon inverted button&quot;]/i[@class=&quot;edit icon&quot;]</value>
+      <webElementGuid>27832bb0-5094-4ee8-90d3-5a63348d91a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div/div[2]/div/table/tbody/tr/td[4]/a[2]/button/i</value>
+      <webElementGuid>0f3a9ad6-ddd6-4bef-91fd-5b9692ace84f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/button/i</value>
+      <webElementGuid>d884a250-0fc4-412e-9e4e-78f7b505cfcb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

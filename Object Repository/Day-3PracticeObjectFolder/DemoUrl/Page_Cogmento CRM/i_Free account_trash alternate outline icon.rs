@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Free account_trash alternate outline icon</name>
+   <tag></tag>
+   <elementGuidId>eee6a259-d434-4603-b5e0-e75dd4b4e774</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.trash.alternate.outline.icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='top-header-menu']/div[2]/div[2]/button[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3dc63a37-53f1-49a5-8ade-5b91b3b4dfe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c05a061d-2cd1-4f0a-8b61-d22e8c2c8976</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>trash alternate outline icon</value>
+      <webElementGuid>817c8716-45b7-423c-9457-19a482147901</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-header-menu&quot;)/div[@class=&quot;right menu&quot;]/div[@class=&quot;ui buttons&quot;]/button[@class=&quot;ui basic button item&quot;]/i[@class=&quot;trash alternate outline icon&quot;]</value>
+      <webElementGuid>2cfec07e-a441-427f-8376-39e6a099b603</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='top-header-menu']/div[2]/div[2]/button[2]/i</value>
+      <webElementGuid>f13dc18a-f4cd-4aa4-9020-e96e7b7ae851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/i</value>
+      <webElementGuid>653cc88a-ccd9-49d2-9269-6c2961b22c28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

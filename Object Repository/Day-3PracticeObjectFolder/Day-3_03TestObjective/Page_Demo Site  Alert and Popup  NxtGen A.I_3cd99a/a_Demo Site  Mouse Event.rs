@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Demo Site  Mouse Event</name>
+   <tag></tag>
+   <elementGuidId>35dd0cab-6a71-4056-81e8-6816899000da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-7260']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-7260 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>70cbdc44-8b55-4524-90a1-c2a256266c7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://nxtgenaiacademy.com/mouseevent/</value>
+      <webElementGuid>16047291-df44-4aa1-b1da-64895d7a99b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Demo Site – Mouse Event</value>
+      <webElementGuid>6558b5f6-661b-47f2-b67c-89ee85c2a9d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-7260&quot;)/a[1]</value>
+      <webElementGuid>d21dbcdb-ab5e-4485-9ae1-2f11107c6860</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-7260']/a</value>
+      <webElementGuid>1a3b5f63-8b55-42d3-af34-d7db77767a5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Demo Site – Mouse Event')]</value>
+      <webElementGuid>b7e44f7d-b45a-4091-bc4f-99d0e2a68beb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demo Site – WebTable'])[1]/following::a[1]</value>
+      <webElementGuid>cf3e63eb-3f2b-446c-9ee8-2fb4833856e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demo Site – Multiple Windows'])[1]/following::a[2]</value>
+      <webElementGuid>92464ae7-d581-4bcf-a83b-1b91d45776e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demo Site – Progress Bar'])[1]/preceding::a[1]</value>
+      <webElementGuid>6365d673-4a99-44df-bbda-40181c5616b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demo Site – Dynamic Transaction'])[1]/preceding::a[2]</value>
+      <webElementGuid>c8f5d4b0-a04a-46e5-a3ca-4d7feebecfa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Demo Site – Mouse Event']/parent::*</value>
+      <webElementGuid>653019e0-1d1b-4280-a910-155c6f255071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://nxtgenaiacademy.com/mouseevent/')]</value>
+      <webElementGuid>1ed35932-0c55-4611-97a4-c13187629fce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li[5]/a</value>
+      <webElementGuid>2327485c-1757-4808-a799-ae7c7870990c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nxtgenaiacademy.com/mouseevent/' and (text() = 'Demo Site – Mouse Event' or . = 'Demo Site – Mouse Event')]</value>
+      <webElementGuid>7becbd51-03c6-4f6e-bf6a-75e1e3d96b3b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_New Browser Tab</name>
+   <tag></tag>
+   <elementGuidId>3660d3c2-b570-40bf-a4e1-0f168ce96d4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='button1'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.elementor-element.elementor-element-f5f0e8d.elementor-widget.elementor-widget-html > div.elementor-widget-container > center > #button1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a995ef1d-a62b-4e37-bb6e-1e6fe2048f8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>145newbrowsertab234</value>
+      <webElementGuid>a98b0c9c-e120-447e-8d05-30c09a1368fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>button1</value>
+      <webElementGuid>f3cddc37-0e20-4f01-a315-825ca6858b39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>NewTab()</value>
+      <webElementGuid>0cdc894e-8907-4154-a06b-3a100400ad10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New Browser Tab</value>
+      <webElementGuid>be28b9cd-34e0-4f34-bee7-27965cffa86d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;post_type_exist clearfix&quot;]/div[@class=&quot;elementor elementor-3782&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-859c260 elementor-section-boxed elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-6f779f8&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-f5f0e8d elementor-widget elementor-widget-html&quot;]/div[@class=&quot;elementor-widget-container&quot;]/center[1]/button[@id=&quot;button1&quot;]</value>
+      <webElementGuid>6a2c82fd-6060-47a9-b7b2-edff98dc7f35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@id='button1'])[3]</value>
+      <webElementGuid>24630d7b-4c11-4753-93af-c7bb5e3743be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div[2]/div/div/section[3]/div/div[3]/div/div/div/center/button</value>
+      <webElementGuid>677e0f57-9606-4368-8ddd-be27f05daa9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Message Window'])[1]/following::button[1]</value>
+      <webElementGuid>0fb3d77e-f8ef-45a4-9f57-d95a7b5f2539</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Browser Window'])[1]/following::button[2]</value>
+      <webElementGuid>ba27143f-ebb0-42ad-9cdd-3f18d46d315b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Browser Tab Link'])[1]/preceding::button[1]</value>
+      <webElementGuid>9310bfbb-5145-48ca-8004-e8572db4b19f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© Copyright [2018-2023]. All Rights Reserved.'])[1]/preceding::button[1]</value>
+      <webElementGuid>9221a59c-582f-478e-a50f-213297012c06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New Browser Tab']/parent::*</value>
+      <webElementGuid>9f44bd86-1a80-4f73-9ece-57a97333e107</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/center/button</value>
+      <webElementGuid>ce4a1c0f-ee7e-4190-b3db-42d18ce9b5d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@name = '145newbrowsertab234' and @id = 'button1' and (text() = 'New Browser Tab' or . = 'New Browser Tab')]</value>
+      <webElementGuid>7bc59bae-1464-4414-9269-5764b1d77b80</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/ul_000510152025303540455055",
+      "brokenLocator": "//ul[@id\u003d\u0027select2-vfb-16-min-results\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Su\u0027])[1]/following::ul[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230607_155056/Day-3TestSuite/Day-3NextGenSuite/20230607_155056/Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/ul_000510152025303540455055_neighbor.png"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Day-4_04TestCases(OrangeHRM)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>babb55aa-7e99-47c2-bf41-688681ebaf7b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>38dde826-0900-4bbd-8aca-b1558b98458b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>40303acb-e36b-4a46-878c-99dc70fd22e2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4fadbc2a-1987-44be-9bf0-b18798b64fb3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>38dde826-0900-4bbd-8aca-b1558b98458b</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>40303acb-e36b-4a46-878c-99dc70fd22e2</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4fadbc2a-1987-44be-9bf0-b18798b64fb3</id>
+      <masked>false</masked>
+      <name>MiddleName</name>
+   </variable>
+</TestCaseEntity>

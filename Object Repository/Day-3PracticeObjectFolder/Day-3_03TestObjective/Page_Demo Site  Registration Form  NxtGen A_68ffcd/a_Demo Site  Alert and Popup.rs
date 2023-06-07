@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Demo Site  Alert and Popup</name>
+   <tag></tag>
+   <elementGuidId>7d5c67a6-5770-4a25-8c27-8a1df77429bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-4132']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-4132 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>af0fd7ab-1c39-48b7-a4c6-a35763634103</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://nxtgenaiacademy.com/alertandpopup/</value>
+      <webElementGuid>6d26351e-bce7-49fb-9ba9-2bfcc3016d09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Demo Site – Alert and Popup</value>
+      <webElementGuid>3690195e-cb19-4d09-933a-e90830bc5124</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-4132&quot;)/a[1]</value>
+      <webElementGuid>0ac9781c-6493-4680-acf4-50271584a825</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-4132']/a</value>
+      <webElementGuid>503bbc4c-ac3e-4dd4-950a-baa0063aad44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Demo Site – Alert and Popup')]</value>
+      <webElementGuid>9cdbc630-722c-4449-9575-4e4ad6a58c89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demo Site – Registration Form'])[1]/following::a[1]</value>
+      <webElementGuid>b5e4d269-8200-4ec3-82a8-940079e03a99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Practice Automation'])[1]/following::a[2]</value>
+      <webElementGuid>d1641cc0-f361-4331-bdaf-f308c8948b9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demo Site – Multiple Windows'])[1]/preceding::a[1]</value>
+      <webElementGuid>6fd44ca0-1275-484c-9ace-96eb15d5cf2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demo Site – WebTable'])[1]/preceding::a[2]</value>
+      <webElementGuid>d4d904df-f412-4b56-aea2-b11251e0ba41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Demo Site – Alert and Popup']/parent::*</value>
+      <webElementGuid>68b1ff9c-7d9d-435f-83e9-d2b553bda550</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://nxtgenaiacademy.com/alertandpopup/')]</value>
+      <webElementGuid>36993e76-64a3-4fda-92d5-ccc6dc501546</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li/ul/li[2]/a</value>
+      <webElementGuid>78c8f498-df76-4db4-bb83-61ce4932d27f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nxtgenaiacademy.com/alertandpopup/' and (text() = 'Demo Site – Alert and Popup' or . = 'Demo Site – Alert and Popup')]</value>
+      <webElementGuid>519ba3bb-3f14-46b5-a9a2-c19f23e17ab7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

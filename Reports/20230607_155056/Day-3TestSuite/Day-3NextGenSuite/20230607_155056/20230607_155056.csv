@@ -1,0 +1,42 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Day-3NextGenSuite,Firefox 114.0,,,2023-06-07 15:50:57,2023-06-07 15:53:24,2m - 26.557s,FAILED
+,,,,,,,
+Test Cases/practice_TestCases/Day3_01TestCases(nextGen),Firefox 114.0,,,2023-06-07 15:50:58,2023-06-07 15:51:45,47.556s,PASSED
+"openBrowser("""")",Firefox 114.0,,,2023-06-07 15:50:58,2023-06-07 15:51:01,2.886s,PASSED
+navigateToUrl(next1),Firefox 114.0,,,2023-06-07 15:51:01,2023-06-07 15:51:29,28.141s,PASSED
+"setText(findTestObject(""Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input__vfb-5""), FirstName)",Firefox 114.0,,,2023-06-07 15:51:29,2023-06-07 15:51:30,0.624s,PASSED
+"setText(findTestObject(""Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input__vfb-7""), LastName)",Firefox 114.0,,,2023-06-07 15:51:30,2023-06-07 15:51:30,0.495s,PASSED
+"click(findTestObject(""Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input__vfb-31""))",Firefox 114.0,,,2023-06-07 15:51:30,2023-06-07 15:51:31,0.702s,PASSED
+"setText(findTestObject(""Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Address_vfb-13address""), Address1)",Firefox 114.0,,,2023-06-07 15:51:31,2023-06-07 15:51:31,0.475s,PASSED
+"setText(findTestObject(""Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Street Address_vfb-13address-2""), Address2)",Firefox 114.0,,,2023-06-07 15:51:31,2023-06-07 15:51:32,0.478s,PASSED
+"setText(findTestObject(""Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_City_vfb-13state""), State)",Firefox 114.0,,,2023-06-07 15:51:32,2023-06-07 15:51:32,0.671s,PASSED
+"setText(findTestObject(""Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_State  Province  Region_vfb-13zip""), City)",Firefox 114.0,,,2023-06-07 15:51:32,2023-06-07 15:51:33,0.680s,PASSED
+"click(findTestObject(""Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Postal  Zip Code_select2-selection sel_e0ab4c""))",Firefox 114.0,,,2023-06-07 15:51:33,2023-06-07 15:51:34,0.690s,PASSED
+"setText(findTestObject(""Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Copyright 2018-2023. All Rights Reser_b02561""), Country)",Firefox 114.0,,,2023-06-07 15:51:34,2023-06-07 15:51:34,0.508s,PASSED
+"setText(findTestObject(""Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input__vfb-14""), Email)",Firefox 114.0,,,2023-06-07 15:51:34,2023-06-07 15:51:35,0.673s,PASSED
+"setText(findTestObject(""Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Date of Demo_vfb-18""), """")",Firefox 114.0,,,2023-06-07 15:51:35,2023-06-07 15:51:35,0.481s,PASSED
+"click(findTestObject(""Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Date of Demo_vfb-18""))",Firefox 114.0,,,2023-06-07 15:51:35,2023-06-07 15:51:36,0.668s,PASSED
+"click(findTestObject(""Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/a_16""))",Firefox 114.0,,,2023-06-07 15:51:36,2023-06-07 15:51:37,0.466s,PASSED
+"click(findTestObject(""Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Convenient Time_select2-selection__arrow""))",Firefox 114.0,,,2023-06-07 15:51:37,2023-06-07 15:51:37,0.679s,PASSED
+"click(findTestObject(""Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/ul_000510152025303540455055""))",Firefox 114.0,,,2023-06-07 15:51:37,2023-06-07 15:51:39,2.035s,PASSED
+"setText(findTestObject(""Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Mobile Number_vfb-19""), PhoneNo)",Firefox 114.0,,,2023-06-07 15:51:39,2023-06-07 15:51:40,0.473s,PASSED
+"click(findTestObject(""Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Selenium WebDriver""))",Firefox 114.0,,,2023-06-07 15:51:40,2023-06-07 15:51:40,0.654s,PASSED
+"click(findTestObject(""Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Course Interested_vfb-20""))",Firefox 114.0,,,2023-06-07 15:51:40,2023-06-07 15:51:41,0.447s,PASSED
+"click(findTestObject(""Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Selenium WebDriver_vfb-20""))",Firefox 114.0,,,2023-06-07 15:51:41,2023-06-07 15:51:41,0.443s,PASSED
+"click(findTestObject(""Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/label_UFT""))",Firefox 114.0,,,2023-06-07 15:51:41,2023-06-07 15:51:42,0.446s,PASSED
+"click(findTestObject(""Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_UFT_vfb-20""))",Firefox 114.0,,,2023-06-07 15:51:42,2023-06-07 15:51:42,0.445s,PASSED
+"click(findTestObject(""Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Selenium WebDriver_vfb-20""))",Firefox 114.0,,,2023-06-07 15:51:42,2023-06-07 15:51:43,0.450s,PASSED
+"setText(findTestObject(""Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/textarea_Enter your query_vfb-23""), comment)",Firefox 114.0,,,2023-06-07 15:51:43,2023-06-07 15:51:43,0.470s,PASSED
+"setText(findTestObject(""Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input__vfb-3""), ""99"")",Firefox 114.0,,,2023-06-07 15:51:43,2023-06-07 15:51:44,0.480s,PASSED
+"click(findTestObject(""Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_This box is for spam protection - str_2dcb9b""))",Firefox 114.0,,,2023-06-07 15:51:44,2023-06-07 15:51:44,0.661s,PASSED
+closeBrowser(),Firefox 114.0,,,2023-06-07 15:51:44,2023-06-07 15:51:45,0.810s,PASSED
+,,,,,,,
+Test Cases/practice_TestCases/Day3_02TestCases(nextGen),Firefox 114.0,,,2023-06-07 15:52:29,2023-06-07 15:52:38,9.924s,FAILED
+"openBrowser("""")",Firefox 114.0,,,2023-06-07 15:52:29,2023-06-07 15:52:34,5.065s,PASSED
+navigateToUrl(next1),Firefox 114.0,,,2023-06-07 15:52:34,2023-06-07 15:52:38,4.555s,PASSED
+"click(findTestObject(""Object Repository/Day-3PracticeObjectFolder/Day3_02TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Toggle navigation_icon-bar""))",Firefox 114.0,,,2023-06-07 15:52:38,2023-06-07 15:52:38,0.297s,FAILED
+,,,,,,,
+Test Cases/practice_TestCases/Day3_03TestCases(nextGen),Firefox 114.0,,,2023-06-07 15:53:12,2023-06-07 15:53:24,12.096s,FAILED
+"openBrowser("""")",Firefox 114.0,,,2023-06-07 15:53:12,2023-06-07 15:53:17,5.157s,PASSED
+navigateToUrl(next1),Firefox 114.0,,,2023-06-07 15:53:17,2023-06-07 15:53:24,6.622s,PASSED
+"click(findTestObject(""Object Repository/Day-3PracticeObjectFolder/Day-3_03TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Toggle navigation_icon-bar""))",Firefox 114.0,,,2023-06-07 15:53:24,2023-06-07 15:53:24,0.311s,FAILED

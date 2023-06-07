@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Day-3NextGenSuite" time="146.557" tests="3" failures="2" errors="0">
+   <testsuite name="Day-3NextGenSuite" tests="3" failures="2" errors="0" time="146.557" skipped="0" timestamp="2023-06-07 15:50:57" hostname="paresh - SF-CPU-442" id="Test Suites/Day-3TestSuite/Day-3NextGenSuite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/home/paresh/git/KatalonTest05/Reports/20230607_155056/Day-3TestSuite/Day-3NextGenSuite/20230607_155056"/>
+         <property name="logFiles" value="/home/paresh/git/KatalonTest05/Reports/20230607_155056/Day-3TestSuite/Day-3NextGenSuite/20230607_155056/execution0.log"/>
+         <property name="attachments" value="/home/paresh/git/KatalonTest05/Reports/20230607_155056/Day-3TestSuite/Day-3NextGenSuite/20230607_155056/1686133329095.png, /home/paresh/git/KatalonTest05/Reports/20230607_155056/Day-3TestSuite/Day-3NextGenSuite/20230607_155056/1686133339016.png, /home/paresh/git/KatalonTest05/Reports/20230607_155056/Day-3TestSuite/Day-3NextGenSuite/20230607_155056/1686133348993.png, /home/paresh/git/KatalonTest05/Reports/20230607_155056/Day-3TestSuite/Day-3NextGenSuite/20230607_155056/1686133358922.png, /home/paresh/git/KatalonTest05/Reports/20230607_155056/Day-3TestSuite/Day-3NextGenSuite/20230607_155056/1686133370668.png, /home/paresh/git/KatalonTest05/Reports/20230607_155056/Day-3TestSuite/Day-3NextGenSuite/20230607_155056/1686133384056.png, /home/paresh/git/KatalonTest05/Reports/20230607_155056/Day-3TestSuite/Day-3NextGenSuite/20230607_155056/1686133392304.png, /home/paresh/git/KatalonTest05/Reports/20230607_155056/Day-3TestSuite/Day-3NextGenSuite/20230607_155056/1686133404392.png"/>
+         <property name="hostName" value="paresh - SF-CPU-442"/>
+         <property name="os" value="Linux 64bit"/>
+         <property name="katalonVersion" value="8.6.0.208"/>
+         <property name="browser" value="Firefox 114.0"/>
+         <property name="hostAddress" value="127.0.1.1"/>
+         <property name="sessionId" value="cf590682-2df3-4bd8-9e49-8d7402614790"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Linux"/>
+      </properties>
+      <testcase name="Test Cases/practice_TestCases/Day3_01TestCases(nextGen)" time="47.556" classname="Test Cases/practice_TestCases/Day3_01TestCases(nextGen)" status="PASSED">
+         <system-out><![CDATA[2023-06-07 15:50:58 - [TEST_CASE][PASSED] - Test Cases/practice_TestCases/Day3_01TestCases(nextGen): Test Cases/practice_TestCases/Day3_01TestCases(nextGen)
+
+2023-06-07 15:50:58 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-07 15:50:58 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2023-06-07 15:50:58 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-07 15:51:01 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-07 15:51:01 - [TEST_STEP][PASSED] - navigateToUrl(next1): Navigate to 'https://nxtgenaiacademy.com/demo-site/' successfully
+
+2023-06-07 15:51:29 - [MESSAGE][PASSED] - Navigate to 'https://nxtgenaiacademy.com/demo-site/' successfully
+
+2023-06-07 15:51:29 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input__vfb-5"), FirstName): Text 'Simform' is set on object 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input__vfb-5'
+
+2023-06-07 15:51:30 - [MESSAGE][PASSED] - Text 'Simform' is set on object 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input__vfb-5'
+
+2023-06-07 15:51:30 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input__vfb-7"), LastName): Text 'Solution' is set on object 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input__vfb-7'
+
+2023-06-07 15:51:30 - [MESSAGE][PASSED] - Text 'Solution' is set on object 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input__vfb-7'
+
+2023-06-07 15:51:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input__vfb-31")): Object: 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input__vfb-31' is clicked on
+
+2023-06-07 15:51:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input__vfb-31' is clicked on
+
+2023-06-07 15:51:31 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Address_vfb-13address"), Address1): Text 'Bopal' is set on object 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Address_vfb-13address'
+
+2023-06-07 15:51:31 - [MESSAGE][PASSED] - Text 'Bopal' is set on object 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Address_vfb-13address'
+
+2023-06-07 15:51:31 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Street Address_vfb-13address-2"), Address2): Text 'Approach' is set on object 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Street Address_vfb-13address-2'
+
+2023-06-07 15:51:32 - [MESSAGE][PASSED] - Text 'Approach' is set on object 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Street Address_vfb-13address-2'
+
+2023-06-07 15:51:32 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_City_vfb-13state"), State): Text 'Gujrat' is set on object 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_City_vfb-13state'
+
+2023-06-07 15:51:32 - [MESSAGE][PASSED] - Text 'Gujrat' is set on object 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_City_vfb-13state'
+
+2023-06-07 15:51:32 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_State  Province  Region_vfb-13zip"), City): Text 'Ahemdabad' is set on object 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_State  Province  Region_vfb-13zip'
+
+2023-06-07 15:51:33 - [MESSAGE][PASSED] - Text 'Ahemdabad' is set on object 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_State  Province  Region_vfb-13zip'
+
+2023-06-07 15:51:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Postal  Zip Code_select2-selection sel_e0ab4c")): Object: 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Postal  Zip Code_select2-selection sel_e0ab4c' is clicked on
+
+2023-06-07 15:51:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Postal  Zip Code_select2-selection sel_e0ab4c' is clicked on
+
+2023-06-07 15:51:34 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Copyright 2018-2023. All Rights Reser_b02561"), Country): Text 'India' is set on object 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Copyright 2018-2023. All Rights Reser_b02561'
+
+2023-06-07 15:51:34 - [MESSAGE][PASSED] - Text 'India' is set on object 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Copyright 2018-2023. All Rights Reser_b02561'
+
+2023-06-07 15:51:34 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input__vfb-14"), Email): Text 'Simformsolution.com' is set on object 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input__vfb-14'
+
+2023-06-07 15:51:35 - [MESSAGE][PASSED] - Text 'Simformsolution.com' is set on object 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input__vfb-14'
+
+2023-06-07 15:51:35 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Date of Demo_vfb-18"), ""): Text '' is set on object 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Date of Demo_vfb-18'
+
+2023-06-07 15:51:35 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Date of Demo_vfb-18'
+
+2023-06-07 15:51:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Date of Demo_vfb-18")): Object: 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Date of Demo_vfb-18' is clicked on
+
+2023-06-07 15:51:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Date of Demo_vfb-18' is clicked on
+
+2023-06-07 15:51:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/a_16")): Object: 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/a_16' is clicked on
+
+2023-06-07 15:51:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/a_16' is clicked on
+
+2023-06-07 15:51:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Convenient Time_select2-selection__arrow")): Object: 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Convenient Time_select2-selection__arrow' is clicked on
+
+2023-06-07 15:51:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Convenient Time_select2-selection__arrow' is clicked on
+
+2023-06-07 15:51:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/ul_000510152025303540455055")): Object: 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/ul_000510152025303540455055' is clicked on
+
+2023-06-07 15:51:38 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //ul[@id='select2-vfb-16-min-results']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-07 15:51:38 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/ul_000510152025303540455055'. Try using Self-healing.
+
+2023-06-07 15:51:39 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/ul_000510152025303540455055' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/following::ul[1]'.
+
+2023-06-07 15:51:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/ul_000510152025303540455055' is clicked on
+
+2023-06-07 15:51:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Mobile Number_vfb-19"), PhoneNo): Text '7878788989' is set on object 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Mobile Number_vfb-19'
+
+2023-06-07 15:51:40 - [MESSAGE][PASSED] - Text '7878788989' is set on object 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Mobile Number_vfb-19'
+
+2023-06-07 15:51:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Selenium WebDriver")): Object: 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Selenium WebDriver' is clicked on
+
+2023-06-07 15:51:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Selenium WebDriver' is clicked on
+
+2023-06-07 15:51:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Course Interested_vfb-20")): Object: 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Course Interested_vfb-20' is clicked on
+
+2023-06-07 15:51:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Course Interested_vfb-20' is clicked on
+
+2023-06-07 15:51:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Selenium WebDriver_vfb-20")): Object: 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Selenium WebDriver_vfb-20' is clicked on
+
+2023-06-07 15:51:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Selenium WebDriver_vfb-20' is clicked on
+
+2023-06-07 15:51:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/label_UFT")): Object: 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/label_UFT' is clicked on
+
+2023-06-07 15:51:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/label_UFT' is clicked on
+
+2023-06-07 15:51:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_UFT_vfb-20")): Object: 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_UFT_vfb-20' is clicked on
+
+2023-06-07 15:51:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_UFT_vfb-20' is clicked on
+
+2023-06-07 15:51:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Selenium WebDriver_vfb-20")): Object: 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Selenium WebDriver_vfb-20' is clicked on
+
+2023-06-07 15:51:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_Selenium WebDriver_vfb-20' is clicked on
+
+2023-06-07 15:51:43 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/textarea_Enter your query_vfb-23"), comment): Text 'This is not query point' is set on object 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/textarea_Enter your query_vfb-23'
+
+2023-06-07 15:51:43 - [MESSAGE][PASSED] - Text 'This is not query point' is set on object 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/textarea_Enter your query_vfb-23'
+
+2023-06-07 15:51:43 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input__vfb-3"), "99"): Text '99' is set on object 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input__vfb-3'
+
+2023-06-07 15:51:44 - [MESSAGE][PASSED] - Text '99' is set on object 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input__vfb-3'
+
+2023-06-07 15:51:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_This box is for spam protection - str_2dcb9b")): Object: 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_This box is for spam protection - str_2dcb9b' is clicked on
+
+2023-06-07 15:51:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Day-3PracticeObjectFolder/day-3_01TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/input_This box is for spam protection - str_2dcb9b' is clicked on
+
+2023-06-07 15:51:44 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-06-07 15:51:45 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/practice_TestCases/Day3_02TestCases(nextGen)" time="9.924" classname="Test Cases/practice_TestCases/Day3_02TestCases(nextGen)" status="FAILED">
+         <failure type="FAILED" message="Test Cases/practice_TestCases/Day3_02TestCases(nextGen) FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Day-3PracticeObjectFolder/Day3_02TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Toggle navigation_icon-bar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Day3_02TestCases(nextGen).run(Day3_02TestCases(nextGen):24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1686133256195.run(TempTestSuite1686133256195.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: Element &lt;span class=&quot;icon-bar&quot;> could not be scrolled into view
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'sf-cpu-442', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.19.0-43-generic', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 114.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230601151220, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 5.19.0-43-generic, moz:processID: 72286, moz:profile: /tmp/rust_mozprofileszbIRa, moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(direct), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: baead3b7-c58d-48b7-adb5-56a8329019a5
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CFirefoxDriver.execute(CFirefoxDriver.java:27)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+"/>
+         <system-out><![CDATA[2023-06-07 15:52:29 - [TEST_CASE][FAILED] - Test Cases/practice_TestCases/Day3_02TestCases(nextGen): Test Cases/practice_TestCases/Day3_02TestCases(nextGen) FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Day-3PracticeObjectFolder/Day3_02TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Toggle navigation_icon-bar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Day3_02TestCases(nextGen).run(Day3_02TestCases(nextGen):24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1686133256195.run(TempTestSuite1686133256195.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: Element <span class="icon-bar"> could not be scrolled into view
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'sf-cpu-442', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.19.0-43-generic', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 114.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230601151220, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 5.19.0-43-generic, moz:processID: 72286, moz:profile: /tmp/rust_mozprofileszbIRa, moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(direct), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: baead3b7-c58d-48b7-adb5-56a8329019a5
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CFirefoxDriver.execute(CFirefoxDriver.java:27)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+
+
+2023-06-07 15:52:29 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-07 15:52:29 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-06-07 15:52:31 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2023-06-07 15:52:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-07 15:52:34 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-07 15:52:34 - [TEST_STEP][PASSED] - navigateToUrl(next1): Navigate to 'https://nxtgenaiacademy.com/demo-site/' successfully
+
+2023-06-07 15:52:38 - [MESSAGE][PASSED] - Navigate to 'https://nxtgenaiacademy.com/demo-site/' successfully
+
+2023-06-07 15:52:38 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/Day-3PracticeObjectFolder/Day3_02TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Toggle navigation_icon-bar")): Unable to click on object 'Object Repository/Day-3PracticeObjectFolder/Day3_02TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Toggle navigation_icon-bar' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Day-3PracticeObjectFolder/Day3_02TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Toggle navigation_icon-bar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Day3_02TestCases(nextGen).run(Day3_02TestCases(nextGen):24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1686133256195.run(TempTestSuite1686133256195.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: Element <span class="icon-bar"> could not be scrolled into view
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'sf-cpu-442', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.19.0-43-generic', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 114.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230601151220, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 5.19.0-43-generic, moz:processID: 72286, moz:profile: /tmp/rust_mozprofileszbIRa, moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(direct), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: baead3b7-c58d-48b7-adb5-56a8329019a5
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CFirefoxDriver.execute(CFirefoxDriver.java:27)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1686132153413.run(Script1686132153413.groovy:24)
+	... 16 more
+)
+
+2023-06-07 15:52:38 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Day-3PracticeObjectFolder/Day3_02TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Toggle navigation_icon-bar' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Day-3PracticeObjectFolder/Day3_02TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Toggle navigation_icon-bar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Day3_02TestCases(nextGen).run(Day3_02TestCases(nextGen):24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1686133256195.run(TempTestSuite1686133256195.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: Element <span class="icon-bar"> could not be scrolled into view
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'sf-cpu-442', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.19.0-43-generic', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 114.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230601151220, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 5.19.0-43-generic, moz:processID: 72286, moz:profile: /tmp/rust_mozprofileszbIRa, moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(direct), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: baead3b7-c58d-48b7-adb5-56a8329019a5
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CFirefoxDriver.execute(CFirefoxDriver.java:27)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1686132153413.run(Script1686132153413.groovy:24)
+	... 16 more
+)
+[[ATTACHMENT|/home/paresh/git/KatalonTest05/Reports/20230607_155056/Day-3TestSuite/Day-3NextGenSuite/20230607_155056/1686133358922.png]]]]></system-out>
+         <system-err><![CDATA[2023-06-07 15:52:29 - [TEST_CASE][FAILED] - Test Cases/practice_TestCases/Day3_02TestCases(nextGen): Test Cases/practice_TestCases/Day3_02TestCases(nextGen) FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Day-3PracticeObjectFolder/Day3_02TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Toggle navigation_icon-bar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Day3_02TestCases(nextGen).run(Day3_02TestCases(nextGen):24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1686133256195.run(TempTestSuite1686133256195.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: Element <span class="icon-bar"> could not be scrolled into view
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'sf-cpu-442', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.19.0-43-generic', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 114.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230601151220, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 5.19.0-43-generic, moz:processID: 72286, moz:profile: /tmp/rust_mozprofileszbIRa, moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(direct), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: baead3b7-c58d-48b7-adb5-56a8329019a5
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CFirefoxDriver.execute(CFirefoxDriver.java:27)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/practice_TestCases/Day3_03TestCases(nextGen)" time="12.096" classname="Test Cases/practice_TestCases/Day3_03TestCases(nextGen)" status="FAILED">
+         <failure type="FAILED" message="Test Cases/practice_TestCases/Day3_03TestCases(nextGen) FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Day-3PracticeObjectFolder/Day-3_03TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Toggle navigation_icon-bar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Day3_03TestCases(nextGen).run(Day3_03TestCases(nextGen):24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1686133256195.run(TempTestSuite1686133256195.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: Element &lt;span class=&quot;icon-bar&quot;> could not be scrolled into view
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'sf-cpu-442', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.19.0-43-generic', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 114.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230601151220, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 5.19.0-43-generic, moz:processID: 73578, moz:profile: /tmp/rust_mozprofile1Eri2Q, moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(direct), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cf590682-2df3-4bd8-9e49-8d7402614790
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CFirefoxDriver.execute(CFirefoxDriver.java:27)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+"/>
+         <system-out><![CDATA[2023-06-07 15:53:12 - [TEST_CASE][FAILED] - Test Cases/practice_TestCases/Day3_03TestCases(nextGen): Test Cases/practice_TestCases/Day3_03TestCases(nextGen) FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Day-3PracticeObjectFolder/Day-3_03TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Toggle navigation_icon-bar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Day3_03TestCases(nextGen).run(Day3_03TestCases(nextGen):24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1686133256195.run(TempTestSuite1686133256195.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: Element <span class="icon-bar"> could not be scrolled into view
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'sf-cpu-442', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.19.0-43-generic', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 114.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230601151220, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 5.19.0-43-generic, moz:processID: 73578, moz:profile: /tmp/rust_mozprofile1Eri2Q, moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(direct), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cf590682-2df3-4bd8-9e49-8d7402614790
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CFirefoxDriver.execute(CFirefoxDriver.java:27)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+
+
+2023-06-07 15:53:12 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-07 15:53:12 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-06-07 15:53:15 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2023-06-07 15:53:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-07 15:53:17 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-07 15:53:17 - [TEST_STEP][PASSED] - navigateToUrl(next1): Navigate to 'https://nxtgenaiacademy.com/demo-site/' successfully
+
+2023-06-07 15:53:24 - [MESSAGE][PASSED] - Navigate to 'https://nxtgenaiacademy.com/demo-site/' successfully
+
+2023-06-07 15:53:24 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/Day-3PracticeObjectFolder/Day-3_03TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Toggle navigation_icon-bar")): Unable to click on object 'Object Repository/Day-3PracticeObjectFolder/Day-3_03TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Toggle navigation_icon-bar' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Day-3PracticeObjectFolder/Day-3_03TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Toggle navigation_icon-bar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Day3_03TestCases(nextGen).run(Day3_03TestCases(nextGen):24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1686133256195.run(TempTestSuite1686133256195.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: Element <span class="icon-bar"> could not be scrolled into view
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'sf-cpu-442', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.19.0-43-generic', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 114.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230601151220, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 5.19.0-43-generic, moz:processID: 73578, moz:profile: /tmp/rust_mozprofile1Eri2Q, moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(direct), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cf590682-2df3-4bd8-9e49-8d7402614790
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CFirefoxDriver.execute(CFirefoxDriver.java:27)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1686132173057.run(Script1686132173057.groovy:24)
+	... 16 more
+)
+
+2023-06-07 15:53:24 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Day-3PracticeObjectFolder/Day-3_03TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Toggle navigation_icon-bar' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Day-3PracticeObjectFolder/Day-3_03TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Toggle navigation_icon-bar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Day3_03TestCases(nextGen).run(Day3_03TestCases(nextGen):24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1686133256195.run(TempTestSuite1686133256195.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: Element <span class="icon-bar"> could not be scrolled into view
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'sf-cpu-442', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.19.0-43-generic', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 114.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230601151220, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 5.19.0-43-generic, moz:processID: 73578, moz:profile: /tmp/rust_mozprofile1Eri2Q, moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(direct), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cf590682-2df3-4bd8-9e49-8d7402614790
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CFirefoxDriver.execute(CFirefoxDriver.java:27)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1686132173057.run(Script1686132173057.groovy:24)
+	... 16 more
+)
+[[ATTACHMENT|/home/paresh/git/KatalonTest05/Reports/20230607_155056/Day-3TestSuite/Day-3NextGenSuite/20230607_155056/1686133404392.png]]]]></system-out>
+         <system-err><![CDATA[2023-06-07 15:53:12 - [TEST_CASE][FAILED] - Test Cases/practice_TestCases/Day3_03TestCases(nextGen): Test Cases/practice_TestCases/Day3_03TestCases(nextGen) FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Day-3PracticeObjectFolder/Day-3_03TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Toggle navigation_icon-bar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Day3_03TestCases(nextGen).run(Day3_03TestCases(nextGen):24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1686133256195.run(TempTestSuite1686133256195.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: Element <span class="icon-bar"> could not be scrolled into view
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'sf-cpu-442', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.19.0-43-generic', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 114.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230601151220, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 5.19.0-43-generic, moz:processID: 73578, moz:profile: /tmp/rust_mozprofile1Eri2Q, moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(direct), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: cf590682-2df3-4bd8-9e49-8d7402614790
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CFirefoxDriver.execute(CFirefoxDriver.java:27)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-06-07 15:50:57 - [TEST_SUITE][FAILED] - Day-3NextGenSuite: Test Cases/practice_TestCases/Day3_02TestCases(nextGen) FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Day-3PracticeObjectFolder/Day3_02TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Toggle navigation_icon-bar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Day3_02TestCases(nextGen).run(Day3_02TestCases(nextGen):24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1686133256195.run(TempTestSuite1686133256195.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: Element <span class="icon-bar"> could not be scrolled into view
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'sf-cpu-442', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.19.0-43-generic', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 114.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230601151220, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 5.19.0-43-generic, moz:processID: 71270, moz:profile: /tmp/rust_mozprofileVIpjlc, moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(direct), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 89bb62b6-acc2-429b-885f-9f60dccd876c
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CFirefoxDriver.execute(CFirefoxDriver.java:27)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2023-06-07 15:50:57 - [TEST_SUITE][FAILED] - Day-3NextGenSuite: Test Cases/practice_TestCases/Day3_02TestCases(nextGen) FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Day-3PracticeObjectFolder/Day3_02TestObjective/Page_Demo Site  Registration Form  NxtGen A_68ffcd/span_Toggle navigation_icon-bar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Day3_02TestCases(nextGen).run(Day3_02TestCases(nextGen):24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1686133256195.run(TempTestSuite1686133256195.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: Element <span class="icon-bar"> could not be scrolled into view
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'sf-cpu-442', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.19.0-43-generic', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 114.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230601151220, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 5.19.0-43-generic, moz:processID: 71270, moz:profile: /tmp/rust_mozprofileVIpjlc, moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(direct), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 89bb62b6-acc2-429b-885f-9f60dccd876c
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CFirefoxDriver.execute(CFirefoxDriver.java:27)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>
